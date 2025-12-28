@@ -1,6 +1,7 @@
-# 🌤 Weather App (Full-Stack)
+Task:Weather_app
 
-## 📌 Project Overview
+
+##  Project Overview
 The Weather App is a full-stack web application that provides real-time weather information for any city in the world.  
 Users can enter a city name and instantly view current weather details such as temperature, humidity, wind speed, and weather conditions.
 
@@ -32,6 +33,3 @@ This project demonstrates frontend–backend integration, REST API usage, and se
 ### API
 - OpenWeatherMap API
 
----
-
-## 📂 Project Structure
